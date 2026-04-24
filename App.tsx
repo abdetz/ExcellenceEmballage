@@ -52,7 +52,7 @@ export default function App() {
           <motion.div variants={itemVariants} className="flex flex-col gap-1">
             <h1 className="sr-only">Excellence Emballage</h1>
             <p className="text-lg text-muted-foreground font-medium">Vente et distribution d'emballage à Oran</p>
-            <p className="text-lg text-muted-foreground font-arabic font-semibold" dir="rtl">وكالة بيع وتوزيع منتجات التعبئة والتغليف في وهران</p>
+            <p className="text-lg text-muted-foreground font-arabic font-semibold" dir="rtl">محل بيع وتوزيع منتجات التعبئة والتغليف في وهران</p>
           </motion.div>
         </motion.header>
 
