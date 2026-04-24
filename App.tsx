@@ -127,7 +127,7 @@ export default function App() {
 
           <motion.a
             variants={itemVariants}
-            href="https://www.google.com/maps/search/?api=1&query=M8VX%2BWJC+Rue+Mascara+Oran"
+            href="https://maps.app.goo.gl/B9Bh3jRfPJC6vupH8"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 p-4 rounded-xl bg-card border border-border hover:bg-secondary transition-colors md:col-span-1"
