@@ -194,7 +194,7 @@ export default function App() {
           <div className="flex flex-col gap-4">
             <div className="flex justify-between items-center text-sm md:text-base">
               <span className="font-medium">Samedi - Jeudi <span className="font-arabic mx-1" dir="rtl">(السبت - الخميس)</span></span>
-              <span className="font-bold">08:00 - 18:00</span>
+              <span className="font-bold">07:00 - 17:00</span>
             </div>
             <div className="flex justify-between items-center text-sm md:text-base text-muted-foreground">
               <span className="font-medium">Vendredi <span className="font-arabic mx-1" dir="rtl">(الجمعة)</span></span>
